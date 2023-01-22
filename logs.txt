@@ -1,0 +1,12 @@
+TRACE: 2023/01/22 11:48:22 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:48:22 main.go:25: Application started 
+TRACE: 2023/01/22 11:48:30 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:48:30 main.go:25: Application started 
+TRACE: 2023/01/22 11:48:32 main.go:18: Loging initialised
+TRACE: 2023/01/22 11:48:32 main.go:25: Application started 
+TRACE: 2023/01/22 13:09:16 main.go:23: Loging initialised
+TRACE: 2023/01/22 13:09:16 main.go:30: Application started 
+TRACE: 2023/01/22 13:09:16 main.go:39: Server is ready to handle request %s :9098
+TRACE: 2023/01/22 13:09:29 webserver.go:35: Server is shutting down  interrupt
+TRACE: 2023/01/22 13:09:29 webserver.go:21: Server is shutting down 
+TRACE: 2023/01/22 13:09:29 main.go:47: Server stopped....
